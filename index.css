@@ -13,3 +13,8 @@ main {
 #reset {
   margin: 20px;
 }
+
+/* warning messages color*/
+#over, #under{
+  color:red
+}
