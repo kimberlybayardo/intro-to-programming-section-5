@@ -130,7 +130,7 @@ function hideAllMessages() {
 function setup() {
   // Get random number
   targetNumber = getRandomNumber(1, 100);
-  console.log(`target number: ${targetNumber}`);
+  //console.log(`target number: ${targetNumber}`);
 
 // Reset number of attempts
 //7. 7TH ERROR: CHANGED THE MAXNUMBEROFATTEMPTS AND ADDED THE IF STATEMENT: If the max number of attempts are made then start the attmpts at 0
